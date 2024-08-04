@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.89.86.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722734436543
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722734564043
+  login: 1722732766380
+money: '0'
+lastlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 3001.0
+  y: 83.0
+  z: 3050.0
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: Nenemetralleta
+logoutlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 3633.5044626251333
+  y: 62.00895292202663
+  z: 3514.905992949533
+  yaw: -108.4447021484375
+  pitch: 2.9639461040496826

@@ -1,0 +1,83 @@
+{
+	id: "3B410F6651CB1052"
+	order_index: 1
+	title: "Blood Tecniques"
+	icon: "fh:akaza_clan_item"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "kimetsunoyaiba:blooddemonart_nezuko"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "kimetsunoyaiba:blooddemonart_yahaba" }
+		{
+			item: {
+				id: "kimetsunoyaiba:blooddemonart_kamanue"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:blooddemonart_rui"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:rifle"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:blooddemonart_rokuro"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "kimetsunoyaiba:blooddemonart_enmu" }
+		{
+			item: {
+				id: "kimetsunoyaiba:blooddemonart_gyokko"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:blooddemonart_zohakuten"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:blooddemonart_akaza"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+}

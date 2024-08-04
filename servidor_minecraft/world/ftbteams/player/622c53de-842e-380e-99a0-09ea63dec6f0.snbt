@@ -1,0 +1,16 @@
+{
+	id: "622c53de-842e-380e-99a0-09ea63dec6f0"
+	type: "player"
+	player_name: "SoyDavidGamer"
+	ranks: {
+		622c53de-842e-380e-99a0-09ea63dec6f0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "SoyDavidGamer"
+		"ftbteams:color": "#FF9D59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

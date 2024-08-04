@@ -1,0 +1,16 @@
+{
+	id: "a103bc4a-110a-3c97-9a39-b91ceb1506c5"
+	type: "player"
+	player_name: "hectorturkiaG"
+	ranks: {
+		a103bc4a-110a-3c97-9a39-b91ceb1506c5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "hectorturkiaG"
+		"ftbteams:color": "#FFE059"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

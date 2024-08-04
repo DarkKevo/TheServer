@@ -1,0 +1,16 @@
+{
+	id: "70487f3e-99f6-3c5e-8440-4ee861a77bc9"
+	type: "player"
+	player_name: "DANICRACKPRO09"
+	ranks: {
+		70487f3e-99f6-3c5e-8440-4ee861a77bc9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DANICRACKPRO09"
+		"ftbteams:color": "#62FF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

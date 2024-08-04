@@ -1,0 +1,16 @@
+{
+	id: "43ca7509-0cdf-32a7-bea6-7f045514bec6"
+	type: "player"
+	player_name: "Cocoa_Y_Cafe"
+	ranks: {
+		43ca7509-0cdf-32a7-bea6-7f045514bec6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cocoa_Y_Cafe"
+		"ftbteams:color": "#5994FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

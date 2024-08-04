@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.125.194.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722752888286
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 0
+  login: 1722750583533
+money: '0'
+last-account-name: Cocoa_Y_Cafe
+lastlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2261.0
+  y: 68.0
+  z: 3487.0
+  yaw: -3.5088839530944824
+  pitch: -4.177242755889893

@@ -1,0 +1,16 @@
+{
+	id: "00ca9fff-55fd-3666-b0f5-956bb611b48b"
+	type: "player"
+	player_name: "Nenemetralleta"
+	ranks: {
+		00ca9fff-55fd-3666-b0f5-956bb611b48b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nenemetralleta"
+		"ftbteams:color": "#7AFF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

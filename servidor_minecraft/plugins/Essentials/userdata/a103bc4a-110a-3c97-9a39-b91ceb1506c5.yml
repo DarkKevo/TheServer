@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.103.212.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722736509139
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722736560412
+  login: 1722736237336
+money: '0'
+last-account-name: hectorturkiaG
+lastlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2261.0
+  y: 68.0
+  z: 3487.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 3355.830911539955
+  y: 72.0
+  z: 3139.138151034569
+  yaw: -336.5649719238281
+  pitch: 29.099403381347656

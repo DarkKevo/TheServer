@@ -1,0 +1,780 @@
+{
+	id: "4407B7BEEDDFFF00"
+	group: ""
+	order_index: 1
+	filename: "shop_kimetsu"
+	title: "Shop Kimetsu"
+	icon: "minecraft:end_crystal"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Compra de Backpack Netherite"
+			icon: {
+				id: "sophisticatedbackpacks:netherite_backpack"
+				Count: 1b
+				ForgeCaps: {
+					"customnpcs:itemscripteddata": { }
+				}
+			}
+			x: 0.0d
+			y: 0.0d
+			id: "479D0828360D0312"
+			tasks: [{
+				id: "61ECCC67D7989ED8"
+				type: "item"
+				item: "kimetsunoyaiba:muzanblood"
+				count: 50L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "6AD2F652DD869747"
+					type: "item"
+					item: {
+						id: "sophisticatedbackpacks:netherite_backpack"
+						Count: 1b
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": { }
+						}
+					}
+				}
+				{
+					id: "17927B6858F49F74"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 479D0828360D0312"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Compra de Backpack Diamante"
+			icon: {
+				id: "sophisticatedbackpacks:diamond_backpack"
+				Count: 1b
+				ForgeCaps: {
+					"customnpcs:itemscripteddata": { }
+				}
+			}
+			x: -1.0d
+			y: 0.0d
+			id: "43CBDDCAC6723D81"
+			tasks: [{
+				id: "4D39E3C90B4538C4"
+				type: "item"
+				icon: "kimetsunoyaiba:muzanblood"
+				item: "kimetsunoyaiba:muzanblood"
+				count: 35L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "2B985EFD448C15D2"
+					type: "item"
+					item: {
+						id: "sophisticatedbackpacks:diamond_backpack"
+						Count: 1b
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": { }
+						}
+					}
+				}
+				{
+					id: "0C3E1EF7C750D51D"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 43CBDDCAC6723D81"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Compra de Backpack Oro"
+			icon: {
+				id: "sophisticatedbackpacks:gold_backpack"
+				Count: 1b
+				ForgeCaps: {
+					"customnpcs:itemscripteddata": { }
+				}
+			}
+			x: -2.0d
+			y: 0.0d
+			dependency_requirement: "all_started"
+			id: "36CFDBA6536EC072"
+			tasks: [{
+				id: "7DEA36858348CEFF"
+				type: "item"
+				item: "kimetsunoyaiba:muzanblood"
+				count: 25L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "2243B27A2552BB80"
+					type: "item"
+					item: {
+						id: "sophisticatedbackpacks:gold_backpack"
+						Count: 1b
+						ForgeCaps: {
+							"customnpcs:itemscripteddata": { }
+						}
+					}
+				}
+				{
+					id: "51B4800F2BC58291"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 36CFDBA6536EC072"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Canjeables [Demon Hand]"
+			icon: "kimetsunoyaiba:demon_hand"
+			x: -1.0d
+			y: 1.0d
+			id: "7A3FAF1B2DACEC88"
+			tasks: [{
+				id: "76D6483989555E51"
+				type: "item"
+				item: "kimetsunoyaiba:demon_hand"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "6AB59AFB5AAA49C8"
+					type: "item"
+					item: "kimetsunoyaiba:muzanblood"
+					count: 2
+				}
+				{
+					id: "78DA9169434EF186"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 7A3FAF1B2DACEC88"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Canjea Rolls"
+			x: -2.0d
+			y: 1.0d
+			id: "737E8D8158FA19F0"
+			tasks: [{
+				id: "0FAF7116EA4CFEED"
+				type: "item"
+				item: "fh:clan_roll"
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "256CBCA13803A6CE"
+					type: "item"
+					item: "minecraft:netherite_ingot"
+					count: 3
+				}
+				{
+					id: "419800DB09FD7855"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 737E8D8158FA19F0"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Compra Clan Rolls"
+			icon: "fh:clan_roll"
+			x: -2.0d
+			y: 2.0d
+			id: "1EB8952A0A2D7521"
+			tasks: [{
+				id: "7A8CF5C0732292A0"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "18C00DCB87F368B3"
+					type: "item"
+					item: "fh:clan_roll"
+				}
+				{
+					id: "3D8AF86D6091603A"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 1EB8952A0A2D7521"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Red Sword V"
+			icon: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 5s
+						id: "kimetsunoyaiba:crimson_red_blade"
+					}]
+				}
+			}
+			x: 0.0d
+			y: 1.0d
+			id: "56CE21CA10BD0F72"
+			tasks: [{
+				id: "74F7302AFB1C6840"
+				type: "item"
+				item: "kimetsunoyaiba:muzanblood"
+				count: 350L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "72856BA613BB435D"
+				type: "item"
+				item: {
+					id: "minecraft:enchanted_book"
+					Count: 1b
+					tag: {
+						StoredEnchantments: [{
+							lvl: 5s
+							id: "kimetsunoyaiba:crimson_red_blade"
+						}]
+					}
+				}
+			}]
+		}
+		{
+			title: "Red Sword IV"
+			icon: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 4s
+						id: "kimetsunoyaiba:crimson_red_blade"
+					}]
+				}
+			}
+			x: -1.0d
+			y: 2.0d
+			id: "17CCD1503DC0007D"
+			tasks: [{
+				id: "21FC172DC670C37E"
+				type: "item"
+				item: "kimetsunoyaiba:muzanblood"
+				count: 300L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "29FFA321D8B14228"
+					type: "item"
+					item: {
+						id: "minecraft:enchanted_book"
+						Count: 1b
+						tag: {
+							StoredEnchantments: [{
+								lvl: 4s
+								id: "kimetsunoyaiba:crimson_red_blade"
+							}]
+						}
+					}
+				}
+				{
+					id: "6A22227022B99C33"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 17CCD1503DC0007D"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Scarlet Ore [Canjeable]"
+			x: 0.0d
+			y: 2.0d
+			id: "53A61ACB1846A5EB"
+			tasks: [{
+				id: "2CB9ECDE33F9EFCE"
+				type: "item"
+				item: "kimetsunoyaiba:scarlet_ore"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "1225AE872C962F9E"
+					type: "item"
+					item: "minecraft:netherite_ingot"
+					count: 6
+				}
+				{
+					id: "630751CA57C7A56C"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 53A61ACB1846A5EB"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Scarlet Ore Special [Canjeable]"
+			icon: "kimetsunoyaiba:scarlet_ore_rare"
+			x: -2.0d
+			y: 3.0d
+			id: "4887A25D31E70E4F"
+			tasks: [{
+				id: "2F946E9F601CB875"
+				type: "item"
+				item: "kimetsunoyaiba:scarlet_ore_rare"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "367296DA8D6ABE54"
+					type: "item"
+					item: "minecraft:netherite_ingot"
+					count: 10
+				}
+				{
+					id: "082310E5444374F2"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 4887A25D31E70E4F"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Compra tu Nichirin"
+			icon: {
+				id: "kimetsunoyaiba:nichirinsword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -1.0d
+			y: 3.0d
+			id: "3286769A4840C85D"
+			tasks: [{
+				id: "21D587F23BF6AC91"
+				type: "item"
+				item: "kimetsunoyaiba:scarlet_ore"
+				count: 8L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "2AC103463CD62417"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "360956713244B07A"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 3286769A4840C85D"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Compra tu Espada Especial"
+			icon: {
+				id: "kimetsunoyaiba:nichirinsword_uzui"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 0.0d
+			y: 3.0d
+			id: "0D6963358B0E1CCA"
+			tasks: [{
+				id: "1DF6006B9B9B6431"
+				type: "item"
+				item: "kimetsunoyaiba:scarlet_ore_rare"
+				count: 15L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "799613E70765C4FB"
+					type: "random"
+					icon: {
+						id: "kimetsunoyaiba:nichirinsword_uzui"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					table_id: 747531958896387943L
+				}
+				{
+					id: "646D405DB13C3A57"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 0D6963358B0E1CCA"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Compra Tu Tecnica de Sangre!"
+			x: -2.0d
+			y: 4.0d
+			id: "18BA1F5DB5B1082A"
+			tasks: [{
+				id: "7C8883CCD4A217EC"
+				type: "item"
+				item: "kimetsunoyaiba:muzanblood"
+				count: 185L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "2848E7D1DBA90D25"
+					type: "choice"
+					icon: "fh:akaza_clan_item"
+					table_id: 4269710853857284178L
+				}
+				{
+					id: "7DF02B409EFF3D17"
+					type: "command"
+					command: "/ftbquests change_progress @p reset 18BA1F5DB5B1082A"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Conquista el Sol"
+			icon: "kimetsunoyaiba:muzanblood"
+			x: -1.0d
+			y: 4.0d
+			id: "2536B0F2DB8B8F66"
+			tasks: [{
+				id: "3399206B4AB4152F"
+				type: "item"
+				item: "kimetsunoyaiba:muzanblood"
+				count: 350L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "5B0584854B5D0508"
+				type: "advancement"
+				advancement: "kimetsunoyaiba:overcome_sunlight"
+				criterion: ""
+			}]
+		}
+		{
+			title: "Muzan Blood Tecnique"
+			icon: "kimetsunoyaiba:muzan_tentacles_helmet"
+			x: 0.0d
+			y: 4.0d
+			id: "40EB168D9B949BA4"
+			tasks: [
+				{
+					id: "32B834B1E21E1527"
+					type: "item"
+					item: "kimetsunoyaiba:muzanblood"
+					count: 1000L
+					consume_items: true
+				}
+				{
+					id: "2C07CE5F221B72B5"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_tanjiro_2"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "15453CBC04F08AD7"
+				type: "item"
+				item: "kimetsunoyaiba:blooddemonart_demon_king"
+			}]
+		}
+		{
+			title: "Muzan Arms"
+			icon: "kimetsunoyaiba:muzan_hand"
+			x: -2.0d
+			y: 5.0d
+			id: "73B747CE5CDC27DD"
+			tasks: [{
+				id: "58CD0FAF18882912"
+				type: "item"
+				item: "kimetsunoyaiba:muzanblood"
+				count: 550L
+				consume_items: true
+			}]
+			rewards: [
+				{
+					id: "0844E98AA5DBCD3E"
+					type: "item"
+					item: "kimetsunoyaiba:muzan_tentacles_helmet"
+				}
+				{
+					id: "0280E7DD45BE76B3"
+					type: "item"
+					item: "kimetsunoyaiba:muzan_tentacles_chestplate"
+				}
+				{
+					id: "324A2BD64BDA205C"
+					type: "item"
+					item: "kimetsunoyaiba:muzan_hand"
+				}
+				{
+					id: "4D5E883B18D9CD3E"
+					type: "item"
+					item: "kimetsunoyaiba:muzan_hat_helmet"
+				}
+			]
+		}
+		{
+			title: "Legendary Sword"
+			icon: {
+				id: "kimetsunoyaiba:nichirinsword_yoriichi"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -1.0d
+			y: 5.0d
+			id: "06A0AD087F88505C"
+			tasks: [
+				{
+					id: "6DAF33399B8A2FC1"
+					type: "item"
+					icon: "kimetsunoyaiba:daki_kimono_chestplate"
+					item: "kimetsunoyaiba:daki_kimono_chestplate"
+					consume_items: true
+				}
+				{
+					id: "4EFDA9D40667EA4F"
+					type: "item"
+					item: "kimetsunoyaiba:clothes_gyutaro_chestplate"
+					consume_items: true
+				}
+				{
+					id: "507D4DF7AEEB7CEB"
+					type: "item"
+					item: "kimetsunoyaiba:nichirinsword_kaigaku"
+					consume_items: true
+				}
+				{
+					id: "4FC9C35ACDA4C17D"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:blooddemonart_gyokko"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "0580F9CCA794C3E0"
+					type: "item"
+					item: "kimetsunoyaiba:zohakuten_clothes_chestplate"
+					consume_items: true
+				}
+				{
+					id: "65425DA65F67F60F"
+					type: "item"
+					item: "kimetsunoyaiba:clothes_akaza_chestplate"
+					consume_items: true
+				}
+				{
+					id: "5274C8A05E28E0B6"
+					type: "item"
+					item: "kimetsunoyaiba:doma_hat"
+					consume_items: true
+				}
+				{
+					id: "315705137DF0B756"
+					type: "item"
+					item: "kimetsunoyaiba:sword_kokushibo_1"
+					consume_items: true
+				}
+				{
+					id: "25DF0A990CE04DC7"
+					type: "item"
+					item: "kimetsunoyaiba:scarlet_ore_rare"
+					count: 35L
+					consume_items: true
+				}
+				{
+					id: "1F3A98F5761E6686"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_himejima_1"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "52083566EE4E53BA"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_kanroji"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "567CC246F6943FD7"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_rengoku"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "4BEBBCC8F7C337EC"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_uzui"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "222DCAB6844F7F9F"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_tokito"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "1A672DACCD7319E1"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_tomioka"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "70E0E2DF76B719AE"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_shinazugawa"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "227E307C7B05A103"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_iguro"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "514A4C7EE2691A60"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_inosuke"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "16F41D7A8B4D5562"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_zenitsu"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+				{
+					id: "57C9E70CD6BBEBB5"
+					type: "item"
+					item: {
+						id: "kimetsunoyaiba:nichirinsword_tanjiro_2"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "350BB38224E7C9F6"
+				type: "item"
+				item: {
+					id: "kimetsunoyaiba:nichirinsword_yoriichi"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.0d
+			y: 5.0d
+			id: "128ED02C80AF687A"
+			tasks: [{
+				id: "3F322EDBE5B101F2"
+				type: "item"
+				item: {
+					id: "kimetsunoyaiba:nichirinsword_yoriichi"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+}

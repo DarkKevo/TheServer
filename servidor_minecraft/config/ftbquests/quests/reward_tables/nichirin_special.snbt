@@ -1,0 +1,132 @@
+{
+	id: "0A5FC45B24456767"
+	order_index: 0
+	title: "nichirin special"
+	icon: {
+		id: "kimetsunoyaiba:nichirinsword"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_himejima_1"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_kanroji"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_uzui"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_rengoku"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_kocho"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_tokito"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_tomioka"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_shinazugawa"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_iguro"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_inosuke"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_zenitsu"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_tanjiro_2"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "kimetsunoyaiba:nichirinsword_senior"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+}

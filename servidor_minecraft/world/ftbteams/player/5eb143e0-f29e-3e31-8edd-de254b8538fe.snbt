@@ -1,0 +1,16 @@
+{
+	id: "5eb143e0-f29e-3e31-8edd-de254b8538fe"
+	type: "player"
+	player_name: "elgokun02"
+	ranks: {
+		5eb143e0-f29e-3e31-8edd-de254b8538fe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "elgokun02"
+		"ftbteams:color": "#DC59FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,16 @@
+{
+	id: "9cabd466-2d15-3430-8813-27285a24964a"
+	type: "player"
+	player_name: "eloffb23"
+	ranks: {
+		9cabd466-2d15-3430-8813-27285a24964a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "eloffb23"
+		"ftbteams:color": "#FF5984"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

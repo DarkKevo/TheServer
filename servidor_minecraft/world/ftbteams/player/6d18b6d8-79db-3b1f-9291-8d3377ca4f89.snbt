@@ -1,0 +1,16 @@
+{
+	id: "6d18b6d8-79db-3b1f-9291-8d3377ca4f89"
+	type: "player"
+	player_name: "InumakiDeidad"
+	ranks: {
+		6d18b6d8-79db-3b1f-9291-8d3377ca4f89: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "InumakiDeidad"
+		"ftbteams:color": "#FFCA59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

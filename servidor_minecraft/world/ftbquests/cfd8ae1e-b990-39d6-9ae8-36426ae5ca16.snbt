@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "cfd8ae1eb99039d69ae836426ae5ca16"
+	name: "21Fly_"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

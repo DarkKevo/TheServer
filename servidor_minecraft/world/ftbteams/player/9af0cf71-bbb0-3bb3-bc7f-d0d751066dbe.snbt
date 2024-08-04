@@ -1,0 +1,16 @@
+{
+	id: "9af0cf71-bbb0-3bb3-bc7f-d0d751066dbe"
+	type: "player"
+	player_name: "Sorvulent"
+	ranks: {
+		9af0cf71-bbb0-3bb3-bc7f-d0d751066dbe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sorvulent"
+		"ftbteams:color": "#6259FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

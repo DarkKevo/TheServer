@@ -1,0 +1,16 @@
+{
+	id: "a564512c-5ed5-3371-9134-d2e1b4fa376a"
+	type: "player"
+	player_name: "EMPERADOR22"
+	ranks: {
+		a564512c-5ed5-3371-9134-d2e1b4fa376a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "EMPERADOR22"
+		"ftbteams:color": "#C0FF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,107 @@
+{
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "fh:start": {
+    "criteria": {
+      "start": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "fh:slayer_skills": {
+    "criteria": {
+      "slayer_skills": "2024-08-04 04:01:50 +0000"
+    },
+    "done": true
+  },
+  "fh:skills": {
+    "criteria": {
+      "skills": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer": {
+    "criteria": {
+      "demon_slayer": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:cruel": {
+    "criteria": {
+      "cruel": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-08-04 04:01:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-08-04 04:01:35 +0000",
+      "minecraft:forest": "2024-08-04 04:01:41 +0000",
+      "minecraft:beach": "2024-08-04 04:01:22 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

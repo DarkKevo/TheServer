@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.81.5.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722738153186
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722738276827
+  login: 1722737759151
+money: '0'
+last-account-name: DANICRACKPRO09
+lastlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2261.0
+  y: 68.0
+  z: 3487.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 3339.1621072290473
+  y: 67.0
+  z: 3153.2805911154883
+  yaw: -74.9581298828125
+  pitch: 38.99995803833008
+homes:
+  farm:
+    world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+    world-name: world
+    x: 3342.108782674998
+    y: 67.2
+    z: 3152.9446812381025
+    yaw: -146.96324157714844
+    pitch: 25.96680450439453

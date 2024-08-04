@@ -1,0 +1,16 @@
+{
+	id: "cfd8ae1e-b990-39d6-9ae8-36426ae5ca16"
+	type: "player"
+	player_name: "21Fly_"
+	ranks: {
+		cfd8ae1e-b990-39d6-9ae8-36426ae5ca16: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "21Fly_"
+		"ftbteams:color": "#D4FF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

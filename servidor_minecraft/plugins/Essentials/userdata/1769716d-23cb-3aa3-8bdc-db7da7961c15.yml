@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.107.148.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722736560451
+  login: 1722736036883
+money: '0'
+last-account-name: ornitorrinco_p
+lastlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2210.0610481138187
+  y: 70.20102750116587
+  z: 3427.90162675575
+  yaw: -334.99456787109375
+  pitch: 18.48136329650879
+logoutlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2102.8461553436423
+  y: 69.0
+  z: 3431.543555605151
+  yaw: 89.24536895751953
+  pitch: 46.568145751953125

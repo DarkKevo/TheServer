@@ -1,0 +1,16 @@
+{
+	id: "47ee1c71-0f4d-31fd-9821-50b845118281"
+	type: "player"
+	player_name: "M3JILL0N"
+	ranks: {
+		47ee1c71-0f4d-31fd-9821-50b845118281: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "M3JILL0N"
+		"ftbteams:color": "#FBFF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

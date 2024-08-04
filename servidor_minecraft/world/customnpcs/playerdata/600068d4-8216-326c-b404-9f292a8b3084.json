@@ -1,0 +1,36 @@
+{
+    "TransportData": [
+        {
+            "Transport": 1
+        }
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "DarkKevo",
+    "UUID": "600068d4-8216-326c-b404-9f292a8b3084",
+    "ScriptStoreddata": {
+    }
+}

@@ -1,0 +1,16 @@
+{
+	id: "1769716d-23cb-3aa3-8bdc-db7da7961c15"
+	type: "player"
+	player_name: "ornitorrinco_p"
+	ranks: {
+		1769716d-23cb-3aa3-8bdc-db7da7961c15: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ornitorrinco_p"
+		"ftbteams:color": "#59FF6C"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,739 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-08-02 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-08-03 02:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kinoto": {
+    "criteria": {
+      "kinoto": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-08-02 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2024-08-04 01:45:01 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kill_12_moons": {
+    "criteria": {
+      "kill_12_moons": "2024-08-02 18:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-02 17:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-08-02 17:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-08-04 04:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-08-02 18:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-08-04 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-08-02 17:52:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:tsuchinoto": {
+    "criteria": {
+      "tsuchinoto": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:peaceful_world": {
+    "criteria": {
+      "peaceful_world": "2024-08-03 02:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "fh:slayer_skills": {
+    "criteria": {
+      "slayer_skills": "2024-08-02 17:39:42 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:peaceful_world_wihout_demons": {
+    "criteria": {
+      "peaceful_world_wihout_demons": "2024-08-03 03:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hashira": {
+    "criteria": {
+      "hashira": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-08-02 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-08-02 18:35:38 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-08-02 17:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-08-02 17:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "fh:slayer": {
+    "criteria": {
+      "slayer": "2024-08-02 17:40:06 +0000"
+    },
+    "done": true
+  },
+  "fh:start": {
+    "criteria": {
+      "start": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:tsuchinoe": {
+    "criteria": {
+      "tsuchinoe": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-08-02 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-08-03 02:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-08-02 18:35:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-08-02 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-08-02 17:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-08-02 18:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-08-02 18:34:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-08-02 18:34:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:bloody_battle_lower_6": {
+    "criteria": {
+      "bloody_battle_lower_6": "2024-08-03 02:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-08-02 17:50:12 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hinoe": {
+    "criteria": {
+      "hinoe": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "fh:skills": {
+    "criteria": {
+      "skills": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer_corps": {
+    "criteria": {
+      "demon_slayer_corps": "2024-08-02 17:40:06 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:the_wind_hashira": {
+    "criteria": {
+      "the_wind_hashira": "2024-08-02 18:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-08-03 03:24:50 +0000",
+      "minecraft:forest": "2024-08-02 17:39:37 +0000",
+      "minecraft:mountains": "2024-08-03 02:56:39 +0000",
+      "minecraft:taiga": "2024-08-02 18:16:27 +0000",
+      "minecraft:taiga_hills": "2024-08-02 18:20:58 +0000",
+      "minecraft:deep_frozen_ocean": "2024-08-04 01:29:20 +0000",
+      "minecraft:beach": "2024-08-02 17:52:40 +0000",
+      "minecraft:river": "2024-08-02 18:14:04 +0000",
+      "minecraft:wooded_hills": "2024-08-02 18:15:04 +0000",
+      "minecraft:stone_shore": "2024-08-04 00:45:09 +0000",
+      "minecraft:plains": "2024-08-02 18:04:27 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-08-02 17:50:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-08-02 17:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-08-02 17:52:47 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:the_sound_hashira": {
+    "criteria": {
+      "the_sound_hashira": "2024-08-03 02:43:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoto": {
+    "criteria": {
+      "mizunoto": "2024-08-02 17:42:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-08-02 17:52:53 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kanoto": {
+    "criteria": {
+      "kanoto": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-08-02 17:52:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-08-02 19:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-08-02 18:25:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:hinoto": {
+    "criteria": {
+      "hinoto": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-08-02 18:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-02 17:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-08-03 02:53:30 +0000",
+      "minecraft:spider": "2024-08-02 18:34:52 +0000",
+      "minecraft:creeper": "2024-08-03 02:04:14 +0000",
+      "minecraft:phantom": "2024-08-02 19:50:06 +0000",
+      "minecraft:enderman": "2024-08-03 03:09:18 +0000",
+      "minecraft:zombie": "2024-08-02 18:54:19 +0000",
+      "minecraft:zombie_villager": "2024-08-03 02:55:29 +0000"
+    },
+    "done": false
+  },
+  "kimetsunoyaiba:mission_no_1": {
+    "criteria": {
+      "mission_no_1": "2024-08-03 03:25:32 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-08-02 17:39:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-08-02 18:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2024-08-03 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-08-03 02:01:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2024-08-02 17:50:12 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoe": {
+    "criteria": {
+      "mizunoe": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-08-04 01:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-08-02 17:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-08-02 18:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-08-03 02:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-02 17:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-08-04 04:46:44 +0000"
+    },
+    "done": true
+  },
+  "fh:mizunoto": {
+    "criteria": {
+      "mizunoto": "2024-08-03 03:23:16 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kanoe": {
+    "criteria": {
+      "kanoe": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:kinoe": {
+    "criteria": {
+      "kinoe": "2024-08-02 17:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-08-03 02:54:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-08-04 04:46:44 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer": {
+    "criteria": {
+      "demon_slayer": "2024-08-02 17:39:38 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:cruel": {
+    "criteria": {
+      "cruel": "2024-08-02 17:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-08-02 17:40:06 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

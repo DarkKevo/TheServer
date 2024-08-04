@@ -1,0 +1,16 @@
+{
+	id: "600068d4-8216-326c-b404-9f292a8b3084"
+	type: "player"
+	player_name: "DarkKevo"
+	ranks: {
+		600068d4-8216-326c-b404-9f292a8b3084: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DarkKevo"
+		"ftbteams:color": "#FF5984"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

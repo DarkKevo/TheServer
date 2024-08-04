@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.64.46.3
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722748030362
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722749296781
+  login: 1722749180065
+money: '0'
+last-account-name: DarkKevo
+lastlocation:
+  world: b2bee50a-6ac2-4bd7-b168-af0a5a330888
+  world-name: mugen_castle
+  x: 2655.000960625426
+  y: 120.49960134231873
+  z: 3371.1183112086105
+  yaw: -166.7957000732422
+  pitch: 55.04965591430664
+logoutlocation:
+  world: b2bee50a-6ac2-4bd7-b168-af0a5a330888
+  world-name: mugen_castle
+  x: 2654.818079459622
+  y: -2.3091426830288784
+  z: 3374.3478515557576
+  yaw: 3.3016796112060547
+  pitch: 22.800189971923828
+homes:
+  home:
+    world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+    world-name: world
+    x: 2654.867905393536
+    y: 119.0
+    z: 3363.954977473487
+    yaw: 174.7525177001953
+    pitch: 32.250186920166016

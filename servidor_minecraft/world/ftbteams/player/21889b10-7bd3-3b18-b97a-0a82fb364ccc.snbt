@@ -1,0 +1,16 @@
+{
+	id: "21889b10-7bd3-3b18-b97a-0a82fb364ccc"
+	type: "player"
+	player_name: "RedLovesRed0"
+	ranks: {
+		21889b10-7bd3-3b18-b97a-0a82fb364ccc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "RedLovesRed0"
+		"ftbteams:color": "#59FFC6"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

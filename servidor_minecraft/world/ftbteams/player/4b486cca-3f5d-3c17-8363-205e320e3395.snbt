@@ -1,0 +1,16 @@
+{
+	id: "4b486cca-3f5d-3c17-8363-205e320e3395"
+	type: "player"
+	player_name: "KennySrz_MC"
+	ranks: {
+		4b486cca-3f5d-3c17-8363-205e320e3395: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KennySrz_MC"
+		"ftbteams:color": "#FF5969"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

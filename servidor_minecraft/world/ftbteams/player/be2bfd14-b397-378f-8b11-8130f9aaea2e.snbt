@@ -1,0 +1,16 @@
+{
+	id: "be2bfd14-b397-378f-8b11-8130f9aaea2e"
+	type: "player"
+	player_name: "WedTester608554"
+	ranks: {
+		be2bfd14-b397-378f-8b11-8130f9aaea2e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "WedTester608554"
+		"ftbteams:color": "#5985FF"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

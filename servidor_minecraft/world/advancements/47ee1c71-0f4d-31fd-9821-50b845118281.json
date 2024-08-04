@@ -1,0 +1,340 @@
+{
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-08-04 01:28:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-08-04 01:26:58 +0000"
+    },
+    "done": true
+  },
+  "fh:skills": {
+    "criteria": {
+      "skills": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-08-04 01:32:15 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer_corps": {
+    "criteria": {
+      "demon_slayer_corps": "2024-08-04 01:25:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2024-08-04 01:32:10 +0000",
+      "minecraft:forest": "2024-08-04 01:26:28 +0000",
+      "minecraft:taiga": "2024-08-04 01:28:26 +0000",
+      "minecraft:beach": "2024-08-04 01:32:06 +0000",
+      "minecraft:river": "2024-08-04 01:28:20 +0000",
+      "minecraft:wooded_hills": "2024-08-04 01:20:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-08-04 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-08-04 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-04 01:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-08-04 01:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-08-04 01:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-08-04 01:28:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoto": {
+    "criteria": {
+      "mizunoto": "2024-08-04 01:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-08-04 01:23:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-08-04 01:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-08-04 01:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-08-04 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-04 01:28:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-08-04 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:peaceful_world": {
+    "criteria": {
+      "peaceful_world": "2024-08-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-08-04 01:26:58 +0000",
+      "minecraft:creeper": "2024-08-04 01:28:45 +0000",
+      "minecraft:zombie": "2024-08-04 01:28:27 +0000"
+    },
+    "done": false
+  },
+  "fh:slayer_skills": {
+    "criteria": {
+      "slayer_skills": "2024-08-04 01:24:14 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:peaceful_world_wihout_demons": {
+    "criteria": {
+      "peaceful_world_wihout_demons": "2024-08-04 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-08-04 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-08-04 01:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-08-04 01:26:54 +0000"
+    },
+    "done": true
+  },
+  "fh:slayer": {
+    "criteria": {
+      "slayer": "2024-08-04 01:25:59 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:mizunoe": {
+    "criteria": {
+      "mizunoe": "2024-08-04 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "fh:start": {
+    "criteria": {
+      "start": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-08-04 01:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-08-04 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-08-04 01:28:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-08-04 01:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-08-04 01:31:17 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:demon_slayer": {
+    "criteria": {
+      "demon_slayer": "2024-08-04 01:20:06 +0000"
+    },
+    "done": true
+  },
+  "kimetsunoyaiba:cruel": {
+    "criteria": {
+      "cruel": "2024-08-04 01:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-08-04 01:31:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-08-04 01:25:59 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "47ee1c710f4d31fd982150b845118281"
+	name: "M3JILL0N"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

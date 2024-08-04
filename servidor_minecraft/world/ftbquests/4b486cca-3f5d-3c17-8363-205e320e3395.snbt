@@ -1,0 +1,13 @@
+{
+	version: 1
+	uuid: "4b486cca3f5d3c178363205e320e3395"
+	name: "KennySrz_MC"
+	can_edit: false
+	lock: false
+	auto_pin: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

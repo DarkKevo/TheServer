@@ -1,0 +1,1673 @@
+[05:45:34] [main/INFO] [STDOUT/]: Update in check...
+[05:45:34] [main/INFO] [STDOUT/]: If you don't want to enable update check, set check_update in mohist-config/mohist.yml to false
+[05:45:34] [main/INFO] [STDOUT/]: No update found, latest version: (1.16.5-1242) current version: (1.16.5-1242)
+[05:45:34] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.mohistVersion, 1242, --fml.forgeVersion, 36.2.42, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, com.mohistmc, nogui]
+[05:45:34] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher mohist-8.1.3 starting: java version 21.0.3 by Microsoft
+[05:45:34] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[05:45:34] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/TheServer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[05:45:37] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [vazkii.patchouli.common.MixinConnector]
+[05:45:38] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[05:45:38] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 79 options available, 0 override(s) found
+[05:45:38] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[05:45:39] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[05:45:39] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[05:45:41] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LivingEntity#attackEntityFrom
+[05:45:44] [main/INFO] [FerriteCore - class definer/]: Using Java 9+ class definer
+[05:45:48] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching ItemStack#onItemUse
+[05:45:52] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:45:52] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:45:52] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `effect_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:45:52] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `fancy_item`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
+[05:45:53] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching DataPackRegistries#<init>
+[05:45:53] [modloading-worker-0/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching LootTableManager#apply
+[05:45:55] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.42, for MC 1.16.5 with MCP 20210115.111550
+[05:45:55] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.42 Initialized
+[05:45:55] [modloading-worker-0/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
+[05:45:57] [modloading-worker-0/INFO] [ejektaflex.bountiful.BountifulMod/]: Loading Bountiful listeners..
+[05:45:57] [modloading-worker-0/INFO] [STDOUT/]: [ejektaflex.bountiful.data.json.JsonSerializers:register:14]: BOREG registering json ser
+[05:45:58] [modloading-worker-0/INFO] [expandability/]: ExpandAbility here, who dis?
+[05:46:00] [main/INFO] [patchouli/]: Loaded book jsons on Thread[#1,main,5,main] in 108 ms
+[05:46:01] [main/INFO] [Bookshelf/]: Registered 11 GlobalLootModifierSerializer entries in 10.11ms.
+[05:46:02] [main/INFO] [Bookshelf/]: Registered 22 ingredient serializers.
+[05:46:02] [main/INFO] [Bookshelf/]: Registered 5 IRecipeSerializer entries in 1.37ms.
+[05:46:03] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[05:46:03] [modloading-worker-0/INFO] [Bookshelf/]: Registering 3 command argument types.
+[05:46:03] [modloading-worker-0/INFO] [Bookshelf/]: Registering 13 loot conditions.
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC Permissions available:
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[05:46:04] [modloading-worker-0/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[05:46:04] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[05:46:04] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[05:46:05] [modloading-worker-0/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[05:46:05] [modloading-worker-0/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[05:46:05] [modloading-worker-0/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:23) ~[shouldersurfing:1.16.5-4.2.0]
+	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[shouldersurfing:1.16.5-4.2.0]
+	at com.github.exopandora.shouldersurfing.forge.plugin.PluginLoaderForge.loadPlugins(PluginLoaderForge.java:23) ~[shouldersurfing:1.16.5-4.2.0]
+	at com.github.exopandora.shouldersurfing.forge.ShoulderSurfingForge.loadComplete(ShoulderSurfingForge.java:67) ~[shouldersurfing:1.16.5-4.2.0]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:248) ~[vanilla.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:240) ~[vanilla.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:304) ~[vanilla.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:284) ~[vanilla.jar:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106) ~[forge:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107) ~[forge:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[vanilla.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-mohist-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-mohist-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:290) ~[modlauncher-mohist-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:160) ~[modlauncher-mohist-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:109) ~[modlauncher-mohist-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 17 more
+[05:46:11] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:46:12] [main/INFO] [ejektaflex.bountiful.BountifulMod/]: Bountiful adding resource listener..
+[05:46:12] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, smoothchunk1.16.5-2.0.jar, weaponmaster_ydm-forge-1.16.5-4.2.3.jar, FinalHope1.0.4.1.jar, ftb-essentials-1605.1.5-build.32.jar, ShoulderSurfing-Forge-1.16.5-4.2.0.jar, Lollipop-1.16.5-3.2.9.jar, CreativeCore_v2.2.1_mc1.16.5.jar, combat_commons-0.2.0-beta-1.16.5-forge.jar, knyr-1.1.1-forge-1.16.5.jar, jei-1.16.5-7.8.0.1009.jar, HealthOverlay-1.16.5-3.0.1.jar, connectivity-2.4-1.16.5.jar, curios-forge-1.16.5-4.1.0.0.jar, Patchouli-1.16.4-53.3.jar, Xaeros_Minimap_24.2.1_Forge_1.16.5.jar, Croptopia-1.16.5-FORGE-2.0.5.jar, collective-1.16.5-5.49.jar, Clumps-6.0.0.28.jar, EnhancedVisuals_v1.3.32_mc1.16.5.jar, Placebo-1.16.5-4.7.1.jar, citadel-1.8.1-1.16.5.jar, ParCool-1.16.5-3.2.1.2-R.jar, Artifacts-1.16.5-2.10.5.jar, YungsApi-1.16.4-Forge-13.jar, obfuscate-0.6.3-1.16.5.jar, Bookshelf-Forge-1.16.5-10.4.33.jar, CustomNPCs-1.16.5.20220515.jar, sophisticatedbackpacks-1.16.5-3.15.20.755.jar, architectury-1.32.68.jar, ftb-library-forge-1605.3.4-build.90.jar, item-filters-forge-1605.2.5-build.9.jar, ferritecore-2.1.1-forge.jar, SoL-Carrot-1.16.5-1.10.1.jar, cloth-config-4.17.101-forge.jar, KimetsuAnimation_1.16.5_ver5.jar, KimetsunoYaiba_1.16.5_ver39.1.jar, ftb-teams-forge-1605.2.3-build.40.jar, ftb-quests-forge-1605.3.7-build.165.jar, mohist-1.16.5-1242-universal.jar, Bountiful-1.16.4-3.3.1.jar, appleskin-forge-mc1.16.x-2.5.1.jar, TravelersTitles-1.16.4-1.5.jar, dummmmmmy-1.16.5-1.3.3.jar, expandability-2.0.1-forge.jar, CosmeticArmorReworked-1.16.5-v5a.jar, embeddium-0.3.18+mc1.16.5.jar, xptome-1.16.5-v2.1.5.jar, bukkit
+[05:46:16] [Worker-Main-2/INFO] [placebo/]: Registered 0 additional loot tables.
+[05:46:16] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1,141 recipes
+[05:46:16] [Worker-Main-2/INFO] [placebo/]: Registered 0 additional recipes.
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Loading Bounty Data. We will probably skip some data since certain mods are not loaded.
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplytea/chef_objs as dependencies are not met: [simplytea]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrade_aquatic/fisherman_rews as dependencies are not met: [upgrade_aquatic]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/farmer_rews as dependencies are not met: [inspirations]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/vanillafoodpantry/chef_objs as dependencies are not met: [vanillafoodpantry]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrade_aquatic/fisherman_objs as dependencies are not met: [upgrade_aquatic]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/apotheosis/fletcher_rews as dependencies are not met: [apotheosis]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/aquaculture/fisherman_rews as dependencies are not met: [aquaculture]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/mysticalworld/armorer_rews as dependencies are not met: [mysticalworld]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/comforts/shepherd_objs as dependencies are not met: [comforts]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/charm/tinker_objs as dependencies are not met: [charm]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/mysticalworld/armorer_objs as dependencies are not met: [mysticalworld]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/aquaculture/fisherman_objs as dependencies are not met: [aquaculture]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/chef_objs as dependencies are not met: [simplefarming]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/tinker_rews as dependencies are not met: [quark]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrademodifiers/armorer_rews as dependencies are not met: [upgrademodifiers]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/charm/tinker_rews as dependencies are not met: [charm]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/naturescompass/toolsmith_rews as dependencies are not met: [naturescompass]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/storagedrawers/tinker_rews as dependencies are not met: [storagedrawers]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/toolsmith_rews as dependencies are not met: [quark]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/farmer_objs as dependencies are not met: [quark]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/tinker_rews as dependencies are not met: [inspirations]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/farmingforblockheads/farmer_objs as dependencies are not met: [farmingforblockheads]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/upgrademodifiers/toolsmith_rews as dependencies are not met: [upgrademodifiers]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/mysticalworld/chef_objs as dependencies are not met: [mysticalworld]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/vanillafoodpantry/chef_rews as dependencies are not met: [vanillafoodpantry]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/inspirations/fletcher_rews as dependencies are not met: [inspirations]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/aquaculture/tinker_rews as dependencies are not met: [aquaculture]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/farmingforblockheads/farmer_rews as dependencies are not met: [farmingforblockheads]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/xlfoodmod/chef_objs as dependencies are not met: [xlfoodmod]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/mysticalworld/farmer_objs as dependencies are not met: [mysticalworld]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/farmer_objs as dependencies are not met: [simplefarming]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/quark/fletcher_objs as dependencies are not met: [quark]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/xlfoodmod/chef_rews as dependencies are not met: [xlfoodmod]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Skipping load of bountiful:pools/simplefarming/farmer_rews as dependencies are not met: [simplefarming]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Found decrees: [hunting, butcher, mason, librarian, farmer, toolsmith, chef, mapper, armorer, fletcher, fisherman, cleric, leatherer, shepherd, tinker]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Merging Entry Pools..
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating Entry Pools..
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'toolsmith_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'butcher_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'tinker_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'common_enchants'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'shepherd_objs'
+[05:46:16] [Worker-Main-2/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: minecraft:wool, Amount: 0 [[4..32]], Worth: 250, NBT: null, Weight: 1000]
+[05:46:16] [Worker-Main-2/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: forge:dyes, Amount: 0 [[2..16]], Worth: 200, NBT: null, Weight: 1000]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'chef_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'toolsmith_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fisherman_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'leatherer_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'farmer_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'cleric_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'shepherd_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'farmer_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'butcher_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'librarian_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'common_crafts'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'librarian_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'armorer_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mason_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'hunting_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'hunting_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'all_villager_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'armorer_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'cleric_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'all_villager_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'chef_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fletcher_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mapper_rews'
+[05:46:16] [Worker-Main-2/WARN] [ejektaflex.bountiful.BountifulMod/]: Invalid pool item: BountyEntry (item-tag) [Item: minecraft:banners, Amount: 0 [[1..3]], Worth: 750, NBT: null, Weight: 400]
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'tinker_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fisherman_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'leatherer_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'fletcher_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mapper_objs'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Validating pool 'mason_rews'
+[05:46:16] [Worker-Main-2/INFO] [ejektaflex.bountiful.BountifulMod/]: Found Entry Pools: [hunting, butcher, mason, librarian, farmer, toolsmith, chef, mapper, armorer, fletcher, fisherman, cleric, leatherer, shepherd, tinker]
+[05:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[05:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[05:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[05:46:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[05:46:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
+[05:46:20] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[05:46:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:46:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[05:46:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:46:21] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:46:21] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-1242 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.42)
+[05:46:23] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[05:46:23] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
+[05:46:23] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[05:46:23] [Server thread/INFO] [/]: Loaded inheritance map of 2322 classes
+[05:46:26] [Server thread/WARN] [/]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[05:46:32] [Server thread/WARN] [Minecraft/]: Legacy plugin AntiLag v2.0 does not specify an api-version.
+[05:46:33] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading LuckPerms v5.4.131
+[05:46:34] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Loading SkinsRestorer v15.4.0
+[05:46:34] [Server thread/INFO] [me.konsolas.antilag.AntiLag/]: [AntiLag] Loading AntiLag v2.0
+[05:46:34] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[05:46:34] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Loading ClearLag v3.2.2
+[05:46:34] [Server thread/INFO] [com.wimbli.WorldBorder.WorldBorder/]: [WorldBorder] Loading WorldBorder v2.1.5
+[05:46:34] [Server thread/INFO] [me.fixeddev.ezchat.ChatPlugin/]: [EzChat] Loading EzChat v3.1.0
+[05:46:34] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Loading Vault v1.7.3-b131
+[05:46:34] [Server thread/INFO] [emanondev.itemedit.ItemEdit/]: [ItemEdit] Loading ItemEdit v3.5.1
+[05:46:34] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Loading WorldEdit v7.2.17+6544-56d0383
+[05:46:38] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2972f661]
+[05:46:38] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Loading Essentials v2.20.1
+[05:46:38] [Server thread/INFO] [me.neznamy.tab.platforms.bukkit.BukkitTAB/]: [TAB] Loading TAB v4.1.6
+[05:46:38] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Loading EssentialsSpawn v2.20.1
+[05:46:38] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Enabling LuckPerms v5.4.131
+[05:46:39] [Server thread/WARN] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loaded class net.kyori.adventure.text.Component from EzChat v3.1.0 which is not a depend, softdepend or loadbefore of this plugin.
+[05:46:41] [Server thread/INFO] [/]:         __    
+[05:46:41] [Server thread/INFO] [/]:   |    |__)   LuckPerms v5.4.131
+[05:46:41] [Server thread/INFO] [/]:   |___ |      Running on Bukkit - Mohist
+[05:46:41] [Server thread/INFO] [/]: 
+[05:46:41] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading configuration...
+[05:46:43] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading storage provider... [H2]
+[05:46:51] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Loading internal permission managers...
+[05:46:52] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Performing initial data load...
+[05:46:54] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Successfully enabled. (took 15602ms)
+[05:46:54] [Server thread/INFO] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Enabling SkinsRestorer v15.4.0
+[05:46:55] [Server thread/WARN] [net.skinsrestorer.bukkit.SRBukkitBootstrap/]: [SkinsRestorer] Loaded class net.kyori.adventure.text.Component from EzChat v3.1.0 which is not a depend, softdepend or loadbefore of this plugin.
+[05:46:58] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[05:47:01] [Server thread/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[05:47:01] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabling Vault v1.7.3-b131
+[05:47:01] [Server thread/WARN] [net.milkbowl.vault.Vault/]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.20.1 which is not a depend, softdepend or loadbefore of this plugin.
+[05:47:01] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Economy] Essentials Economy found: Waiting
+[05:47:02] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[05:47:02] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] Enabled Version 1.7.3-b131
+[05:47:02] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin/]: [LuckPerms] Registered Vault permission & chat hook.
+[05:47:02] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] Enabling WorldEdit v7.2.17+6544-56d0383
+[05:47:02] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[05:47:03] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Vault detected! Using Vault for permissions
+[05:47:06] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] ====================================================
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  WorldEdit works better if you use Paper 
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  as your server software. 
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper offers significant performance improvements,
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  bug fixes, security enhancements and optional
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  features for server owners to enhance their server.
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  better at diagnosing lag problems over v1.
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  All of your plugins should still work, and the
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]   
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[05:47:08] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: [WorldEdit] ====================================================
+[05:47:08] [Server thread/INFO] [FTB Teams/]: Loaded FTB Teams - 17 known players
+[05:47:08] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: plains
+[05:47:08] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: savanna
+[05:47:08] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: snowy
+[05:47:08] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: taiga
+[05:47:08] [Server thread/INFO] [ejektaflex.bountiful.BountifulMod/]: Registering Bounty Board Jigsaw Piece for Village Type: desert
+[05:47:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[05:47:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[05:47:12] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05:47:14] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05:47:14] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[05:47:16] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 6,148 ms
+[05:47:16] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:the_end
+[05:47:16] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05:47:17] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05:47:22] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[05:47:22] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[05:47:23] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[05:47:23] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[05:47:24] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
+[05:47:24] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 97%
+[05:47:24] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 8,620 ms
+[05:47:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension kimetsunoyaiba:mugen_castle
+[05:47:25] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05:47:25] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[05:47:26] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 88%
+[05:47:27] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 2,446 ms
+[05:47:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension kimetsunoyaiba:enmu_dream
+[05:47:28] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[05:47:28] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 3%
+[05:47:28] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 55%
+[05:47:29] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 60%
+[05:47:29] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 74%
+[05:47:30] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 78%
+[05:47:31] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 80%
+[05:47:31] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
+[05:47:32] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
+[05:47:32] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 91%
+[05:47:33] [Worker-Main-2/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 92%
+[05:47:34] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 94%
+[05:47:34] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 7,226 ms
+[05:47:34] [Server thread/INFO] [me.konsolas.antilag.AntiLag/]: [AntiLag] Enabling AntiLag v2.0
+[05:47:34] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[05:47:34] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading base translations from "en_us"
+[05:47:34] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Loading specified translations from "en_us"
+[05:47:34] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Registering commands...
+[05:47:34] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Registering listeners...
+[05:47:35] [Server thread/INFO] [com.lenis0012.bukkit.loginsecurity.LoginSecurity/]: [LoginSecurity] Using 1.12+ map captcha renderer
+[05:47:35] [Server thread/INFO] [me.minebuilders.clearlag.Clearlag/]: [ClearLag] Enabling ClearLag v3.2.2
+[05:47:35] [Server thread/INFO] [Minecraft/]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[05:47:35] [Server thread/INFO] [Minecraft/]: [ClearLag] Loading modules...
+[05:47:35] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules enabed, loading config values
+[05:47:35] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules have been loaded!
+[05:47:35] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now enabled!
+[05:47:35] [Server thread/INFO] [com.wimbli.WorldBorder.WorldBorder/]: [WorldBorder] Enabling WorldBorder v2.1.5
+[05:47:35] [Thread-13/INFO] [Minecraft/]: [ClearLag] Checking for updates compatible with your bukkit version [1.16]...
+[05:47:35] [Thread-13/INFO] [Minecraft/]: [ClearLag] No updates found!
+[05:47:35] [Server thread/INFO] [com.wimbli.WorldBorder.WorldBorder/]: [WorldBorder] [CONFIG] Using rectangular/square border, knockback of 3.0 blocks, and timer delay of 5.
+[05:47:35] [Server thread/INFO] [com.wimbli.WorldBorder.WorldBorder/]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[05:47:35] [Server thread/INFO] [com.wimbli.WorldBorder.WorldBorder/]: [WorldBorder] [CONFIG] World "world" has border radius 5000 at X: 0.5 Z: 0.5
+[05:47:35] [Server thread/INFO] [com.wimbli.WorldBorder.WorldBorder/]: [WorldBorder] For reference, the main world's spawn location is at X: 2261.0 Y: 68.0 Z: 3487.0
+[05:47:35] [Server thread/INFO] [me.fixeddev.ezchat.ChatPlugin/]: [EzChat] Enabling EzChat v3.1.0
+[05:47:35] [Server thread/WARN] [me.fixeddev.ezchat.ChatPlugin/]: [EzChat] The format with name default has PlaceholderAPI enabled but PlaceholderAPI isnt installed, the placeholders will not work correctly.
+[05:47:35] [Server thread/WARN] [me.fixeddev.ezchat.ChatPlugin/]: [EzChat] The format with name vip has PlaceholderAPI enabled but PlaceholderAPI isnt installed, the placeholders will not work correctly.
+[05:47:35] [Server thread/INFO] [me.fixeddev.ezchat.ChatPlugin/]: [EzChat] Registering chat listener for priority NORMAL
+[05:47:36] [Server thread/INFO] [me.fixeddev.ezchat.ChatPlugin/]: [EzChat] Unable to detect Paper, using legacy chat event.
+[05:47:36] [Server thread/INFO] [emanondev.itemedit.ItemEdit/]: [ItemEdit] Enabling ItemEdit v3.5.1
+[05:47:37] [Server thread/INFO] [emanondev.itemedit.ItemEdit/]: [ItemEdit] Selected Storage Type: YAML
+[05:47:37] [Server thread/INFO] [/]: [ItemEdit] Hooking into Vault
+[05:47:37] [Server thread/INFO] [/]: [ItemEdit] # Enabled (took 459 ms)
+[05:47:37] [Server thread/INFO] [com.earth2me.essentials.Essentials/]: [Essentials] Enabling Essentials v2.20.1
+[05:47:37] [Server thread/INFO] [Essentials/]: You are running a server with limited API functionality. EssentialsX will still work, but certain features may be disabled.
+[05:47:38] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[05:47:38] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[05:47:39] [Server thread/INFO] [Essentials/]: Loaded 39094 items from items.json.
+[05:47:39] [Server thread/INFO] [Essentials/]: Using locale en
+[05:47:39] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[05:47:39] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[05:47:39] [Server thread/INFO] [net.milkbowl.vault.Vault/]: [Vault] [Economy] Essentials Economy hooked.
+[05:47:40] [Server thread/INFO] [Essentials/]: Using Vault based permissions (LuckPerms)
+[05:47:40] [Server thread/INFO] [me.neznamy.tab.platforms.bukkit.BukkitTAB/]: [TAB] Enabling TAB v4.1.6
+[05:47:40] [Server thread/INFO] [/]: [TAB] Loaded NMS hook in 536ms
+[05:47:41] [Server thread/INFO] [/]: [TAB] Enabled in 978ms
+[05:47:41] [Server thread/INFO] [com.earth2me.essentials.spawn.EssentialsSpawn/]: [EssentialsSpawn] Enabling EssentialsSpawn v2.20.1
+[05:47:41] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[05:47:42] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[05:47:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (34.313s)! For help, type "help"
+[05:47:43] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Server thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered synced player tracker system: ftb_teams
+[05:47:43] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[05:47:43] [Server thread/INFO] [FTB Quests/]: Loading quests from /workspaces/TheServer/servidor_minecraft/config/ftbquests/quests
+[05:47:43] [Server thread/INFO] [FTB Quests/]: Loaded 1 chapter groups, 2 chapters, 38 quests, 2 reward tables
+[05:47:43] [Server thread/INFO] [Essentials/]: Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[05:47:43] [Craft Scheduler Thread - 8/INFO] [Essentials/]: Fetching version information...
+[05:47:43] [Craft Scheduler Thread - 4/INFO] [/]: [ItemEdit] New Update at https://spigotmc.org/resources/40993
+[05:47:43] [Craft Scheduler Thread - 10/INFO] [net.milkbowl.vault.Vault/]: [Vault] Checking for Updates ... 
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.4.0[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m7837da9[0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[05:47:43] [Craft Scheduler Thread - 5/INFO] [/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[05:47:43] [Craft Scheduler Thread - 10/INFO] [net.milkbowl.vault.Vault/]: [Vault] No new version available
+[05:48:40] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cocoa_Y_Cafe is 43ca7509-0cdf-32a7-bea6-7f045514bec6
+[05:48:40] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 47 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, embeddium, rubidium, xpbook
+[05:48:41] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@147e95c0[id=43ca7509-0cdf-32a7-bea6-7f045514bec6,name=Cocoa_Y_Cafe,properties={},legacy=false] (/100.125.194.92:61120) lost connection: Disconnected
+[05:48:44] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cocoa_Y_Cafe is 43ca7509-0cdf-32a7-bea6-7f045514bec6
+[05:48:44] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 47 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, embeddium, rubidium, xpbook
+[05:48:45] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@2d925e4f[id=43ca7509-0cdf-32a7-bea6-7f045514bec6,name=Cocoa_Y_Cafe,properties={},legacy=false] (/100.125.194.92:61125): You are not whitelisted on this server!
+[05:48:45] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@2d925e4f[id=43ca7509-0cdf-32a7-bea6-7f045514bec6,name=Cocoa_Y_Cafe,properties={},legacy=false] (/100.125.194.92:61125) lost connection: You are not whitelisted on this server!
+[05:48:48] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cocoa_Y_Cafe is 43ca7509-0cdf-32a7-bea6-7f045514bec6
+[05:48:48] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 47 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, embeddium, rubidium, xpbook
+[05:48:50] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: Disconnecting com.mojang.authlib.GameProfile@53a63e30[id=43ca7509-0cdf-32a7-bea6-7f045514bec6,name=Cocoa_Y_Cafe,properties={},legacy=false] (/100.125.194.92:61129): You are not whitelisted on this server!
+[05:48:50] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@53a63e30[id=43ca7509-0cdf-32a7-bea6-7f045514bec6,name=Cocoa_Y_Cafe,properties={},legacy=false] (/100.125.194.92:61129) lost connection: You are not whitelisted on this server!
+[05:49:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Whitelist is now turned off
+[05:49:40] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cocoa_Y_Cafe is 43ca7509-0cdf-32a7-bea6-7f045514bec6
+[05:49:40] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 47 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, embeddium, rubidium, xpbook
+[05:49:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cocoa_Y_Cafe[/100.125.194.92:61155] logged in with entity id 69 at (2,252.5, 63, 3,477.5)
+[05:49:42] [Server thread/INFO] [Essentials/]: Created a User for Cocoa_Y_Cafe (43ca7509-0cdf-32a7-bea6-7f045514bec6) for non Bukkit type: org.bukkit.craftbukkit.v1_16_R3.entity.CraftPlayer
+[05:49:43] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 43ca7509-0cdf-32a7-bea6-7f045514bec6 was loaded
+[05:50:20] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player lefty890 is 26c85666-4e7b-3370-93e9-77109a0ec8d0
+[05:50:21] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 49 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, dungeoncrawl, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, toastcontrol, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, rpg-hud, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, corpse, xpbook
+[05:50:22] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: lefty890[/100.106.128.63:54417] logged in with entity id 262 at (2,137.117, 69.922, 3,404.578)
+[05:50:23] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 26c85666-4e7b-3370-93e9-77109a0ec8d0 was loaded
+[05:50:34] [Server thread/ERROR] [com.sk89q.worldedit.WorldEdit/]: No TreeType mapping for TreeGenerator.TreeType.MANGROVE
+[05:50:34] [Server thread/ERROR] [com.sk89q.worldedit.WorldEdit/]: No TreeType mapping for TreeGenerator.TreeType.TALL_MANGROVE
+[05:50:34] [Server thread/ERROR] [com.sk89q.worldedit.WorldEdit/]: No TreeType mapping for TreeGenerator.TreeType.CHERRY
+[05:50:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /
+[05:51:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Goldfish Demon
+[05:51:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Zombie
+[05:51:37] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player RedLovesRed0 is 21889b10-7bd3-3b18-b97a-0a82fb364ccc
+[05:51:37] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 47 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, embeddium, rubidium, xpbook
+[05:51:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: RedLovesRed0[/100.76.174.29:56519] logged in with entity id 716 at (3,001, 83, 3,050)
+[05:51:39] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 21889b10-7bd3-3b18-b97a-0a82fb364ccc was loaded
+[05:51:55] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> nomames vaya mierda tengo la del gay de iguro
+[05:51:55] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> nomames vaya mierda tengo la del gay de iguro
+[05:52:27] [Async Chat Thread - 2/INFO] [/]: <lefty890> jaja
+[05:52:27] [Async Chat Thread - 2/INFO] [/]: <lefty890> jaja
+[05:52:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Cocoa a server operator
+[05:52:33] [Async Chat Thread - 2/INFO] [/]: <lefty890> el pndejo
+[05:52:33] [Async Chat Thread - 2/INFO] [/]: <lefty890> el pndejo
+[05:52:34] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> chupala uruguayo de mierda
+[05:52:34] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> chupala uruguayo de mierda
+[05:52:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] ya cocoa?
+[05:52:44] [Async Chat Thread - 2/INFO] [/]: <lefty890> cerra el orto onda vital
+[05:52:44] [Async Chat Thread - 2/INFO] [/]: <lefty890> cerra el orto onda vital
+[05:52:45] [Server thread/INFO] [Essentials/]: CONSOLE issued server command: /list 
+[05:52:45] [Server thread/INFO] [/]: There are 3 out of maximum 25 players online.
+[05:52:45] [Server thread/INFO] [/]: default: Cocoa_Y_Cafe, lefty890, RedLovesRed0
+[05:52:54] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> estrellas inventadas
+[05:52:54] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> estrellas inventadas
+[05:53:03] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> si
+[05:53:03] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> si
+[05:53:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was blown up by Creeper
+[05:53:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 was kicked for floating too long!
+[05:53:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 lost connection: Flying is not enabled on this server
+[05:53:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 26c85666-4e7b-3370-93e9-77109a0ec8d0 was unloaded
+[05:53:08] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> JAJAAJJJ
+[05:53:08] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> JAJAAJJJ
+[05:53:11] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player lefty890 is 26c85666-4e7b-3370-93e9-77109a0ec8d0
+[05:53:11] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> a no
+[05:53:11] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> a no
+[05:53:11] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 49 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, dungeoncrawl, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, toastcontrol, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, rpg-hud, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, corpse, xpbook
+[05:53:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: lefty890[/100.106.128.63:54442] logged in with entity id 1,456 at (2,199.086, 67.56, 3,396.558)
+[05:53:13] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> aun no
+[05:53:13] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> aun no
+[05:53:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 26c85666-4e7b-3370-93e9-77109a0ec8d0 was loaded
+[05:53:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /skin url https://i.imgur.com/IJ3xSpF.png
+[05:53:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Made Cocoa_Y_Cafe a server operator
+[05:53:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: //skin url https://i.imgur.com/IJ3xSpF.png
+[05:53:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /skin url https://i.imgur.com/IJ3xSpF.png
+[05:53:41] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> ya
+[05:53:41] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> ya
+[05:53:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /gamemode creative
+[05:53:50] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> red que nichirin
+[05:53:50] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> red que nichirin
+[05:53:54] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> una normal
+[05:53:54] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> una normal
+[05:53:59] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> sin respiracion
+[05:53:59] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> sin respiracion
+[05:54:05] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> que
+[05:54:05] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> que
+[05:54:11] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> no tengo la mia
+[05:54:11] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> no tengo la mia
+[05:54:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tp Cocoa_Y_Cafe r
+[05:54:26] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> esta?
+[05:54:26] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> esta?
+[05:54:29] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> no
+[05:54:29] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> no
+[05:54:32] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> una normal
+[05:54:32] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> una normal
+[05:54:35] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> ten
+[05:54:35] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> ten
+[05:54:39] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> no quieres la de iguro?
+[05:54:39] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> no quieres la de iguro?
+[05:54:45] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> esa es una mierda
+[05:54:45] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> esa es una mierda
+[05:54:55] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> me voy a cambiar la skin
+[05:54:55] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> me voy a cambiar la skin
+[05:54:57] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> ya vengo
+[05:54:57] [Async Chat Thread - 2/INFO] [/]: <RedLovesRed0> ya vengo
+[05:55:03] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> :v
+[05:55:03] [Async Chat Thread - 2/INFO] [/]: <Cocoa_Y_Cafe> :v
+[05:55:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 lost connection: Disconnected
+[05:55:06] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 21889b10-7bd3-3b18-b97a-0a82fb364ccc was unloaded
+[05:55:43] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /skin clear
+[05:56:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 moved wrongly!
+[05:56:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 moved wrongly!
+[05:56:08] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 10 seconds
+[05:56:09] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 9 seconds
+[05:56:10] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 8 seconds
+[05:56:11] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 7 seconds
+[05:56:12] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 6 seconds
+[05:56:13] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 5 seconds
+[05:56:14] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 4 seconds
+[05:56:15] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 3 seconds
+[05:56:16] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 2 seconds
+[05:56:17] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 1 seconds
+[05:56:18] [Server thread/INFO] [/]: [AntiLag] > Removing...
+[05:56:42] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player RedLovesRed0 is 21889b10-7bd3-3b18-b97a-0a82fb364ccc
+[05:56:42] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 47 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, embeddium, rubidium, xpbook
+[05:56:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: RedLovesRed0[/100.76.174.29:56806] logged in with entity id 2,956 at (3,000.019, 83, 3,016.26)
+[05:56:44] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 21889b10-7bd3-3b18-b97a-0a82fb364ccc was loaded
+[05:56:51] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> ya
+[05:56:51] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> ya
+[05:57:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /tpa Cocoa_Y_Cafe
+[05:57:17] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ontas
+[05:57:17] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ontas
+[05:57:18] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 moved wrongly!
+[05:57:21] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> acepta
+[05:57:21] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> acepta
+[05:57:22] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> tpa
+[05:57:22] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> tpa
+[05:57:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tpaccept
+[05:57:36] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> :_v
+[05:57:36] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> :_v
+[05:57:47] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> espera me tengo que morir para seguir el canon
+[05:57:47] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> espera me tengo que morir para seguir el canon
+[05:57:55] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> :_v
+[05:57:55] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> :_v
+[05:58:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 fell from a high place
+[05:58:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[05:58:33] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ven
+[05:58:33] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ven
+[05:58:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tp RedLovesRed0 Cocoa_Y_Cafe
+[05:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Rengoku family!
+[05:58:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Kocho family!
+[05:58:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Kocho family!
+[05:58:46] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> q
+[05:58:46] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> q
+[05:58:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Kocho family!
+[05:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Agatsuma family!
+[05:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Kocho family!
+[05:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Tokito family!
+[05:58:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Kocho family!
+[05:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Kocho family!
+[05:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[05:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Rui family!
+[05:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[05:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Shinazugawa family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Kocho family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Enmu family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Rengoku family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Kocho family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Enmu family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Tsugikuni family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Enmu family!
+[05:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Akaza family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Tomioka family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Enmu family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Kocho family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Tsugikuni family!
+[05:58:58] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> diosssss
+[05:58:58] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> diosssss
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Tokito family!
+[05:58:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Kocho family!
+[05:58:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Enmu family!
+[05:58:59] [Async Chat Thread - 3/INFO] [/]: <lefty890> uh
+[05:58:59] [Async Chat Thread - 3/INFO] [/]: <lefty890> uh
+[05:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[05:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[05:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[05:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[05:59:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[05:59:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Shinazugawa family!
+[05:59:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Enmu family!
+[05:59:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Rengoku family!
+[05:59:07] [Async Chat Thread - 3/INFO] [/]: <lefty890> wtf?
+[05:59:07] [Async Chat Thread - 3/INFO] [/]: <lefty890> wtf?
+[05:59:08] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> como remuevo la familia
+[05:59:09] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> como remuevo la familia
+[05:59:10] [Async Chat Thread - 3/INFO] [/]: <lefty890> tantos?
+[05:59:10] [Async Chat Thread - 3/INFO] [/]: <lefty890> tantos?
+[05:59:13] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> queria ver si da lag
+[05:59:13] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> queria ver si da lag
+[05:59:14] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> XD
+[05:59:14] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> XD
+[05:59:20] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no se
+[05:59:20] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no se
+[05:59:26] [Async Chat Thread - 3/INFO] [/]: <lefty890> hmmmmmmmmm
+[05:59:26] [Async Chat Thread - 3/INFO] [/]: <lefty890> hmmmmmmmmm
+[05:59:27] [Async Chat Thread - 3/INFO] [/]: <lefty890> rari
+[05:59:27] [Async Chat Thread - 3/INFO] [/]: <lefty890> rari
+[05:59:28] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya
+[05:59:28] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya
+[05:59:34] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> la quite con comando
+[05:59:34] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> la quite con comando
+[05:59:36] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> y yo que mr hago si ella me los dio
+[05:59:36] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> y yo que mr hago si ella me los dio
+[05:59:38] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> red checa
+[05:59:38] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> red checa
+[05:59:44] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> el que
+[05:59:44] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> el que
+[05:59:50] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya no teines familia?
+[05:59:50] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya no teines familia?
+[05:59:54] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /invsee RedLovesRed0
+[05:59:55] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no se
+[05:59:55] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no se
+[05:59:57] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> como veo
+[05:59:57] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> como veo
+[06:00:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /invsee lefty890
+[06:00:13] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> no se
+[06:00:13] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> no se
+[06:00:17] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> segun ya te lo quite
+[06:00:17] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> segun ya te lo quite
+[06:00:21] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> dej ad esuicidarte
+[06:00:21] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> dej ad esuicidarte
+[06:00:24] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> :_v
+[06:00:24] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> :_v
+[06:00:34] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> deja de poner :_v
+[06:00:34] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> deja de poner :_v
+[06:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Progress has been changed!
+[06:01:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Progress has been changed!
+[06:01:27] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> ponete en survival
+[06:01:27] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> ponete en survival
+[06:01:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /advancement revoke Cocoa_Y_Cafe everything
+[06:01:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Cocoa_Y_Cafe: Revoked 1141 advancements from Cocoa_Y_Cafe]
+[06:01:33] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> pera
+[06:01:33] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> pera
+[06:01:39] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> me estoy quitando los avances
+[06:01:39] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> me estoy quitando los avances
+[06:01:45] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> quitate todo
+[06:01:45] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> quitate todo
+[06:02:10] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> con /advancement revoke Cocoa_Y_Cafe everything
+[06:02:10] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> con /advancement revoke Cocoa_Y_Cafe everything
+[06:02:13] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya
+[06:02:13] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya
+[06:02:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /gamemode survival
+[06:02:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tp Cocoa_Y_Cafe RedLovesRed0
+[06:02:29] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> quiero haori de rengoku donde estan ovejas
+[06:02:29] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> quiero haori de rengoku donde estan ovejas
+[06:02:48] [Server thread/INFO] [Essentials/]: Muichiro issued server command: /tp @s ~ ~ ~ 450.27347 -3.4572773
+[06:02:48] [Server thread/INFO] [Essentials/]: Muichiro issued server command: /tp @s ~ ~ ~ 450.15997 -5.61383
+[06:02:49] [Server thread/INFO] [Essentials/]: Muichiro issued server command: /tp @s ~ ~ ~ 492.74353 -7.9460154
+[06:02:50] [Server thread/INFO] [Essentials/]: Muichiro issued server command: /tp @s ~ ~ ~ 495.0 0.0
+[06:03:09] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> creo que tengo que hacer las misiones de demonio
+[06:03:09] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> creo que tengo que hacer las misiones de demonio
+[06:03:12] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> pero no me dijieron nada
+[06:03:12] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> pero no me dijieron nada
+[06:03:18] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> si no te dijieron no tienes
+[06:03:18] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> si no te dijieron no tienes
+[06:03:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Himejimafamily!
+[06:03:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[06:03:58] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> que te hiciste
+[06:03:58] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> que te hiciste
+[06:03:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[06:03:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Kocho family!
+[06:04:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Shinazugawa family!
+[06:04:03] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> de donde sacaste eso
+[06:04:03] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> de donde sacaste eso
+[06:04:04] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> me hice una mision
+[06:04:04] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> me hice una mision
+[06:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Enmu family!
+[06:04:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[06:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[06:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[06:04:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 has been born into the Yahaba family!
+[06:04:09] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> vaya mierda
+[06:04:09] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> vaya mierda
+[06:04:09] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> cual
+[06:04:09] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> cual
+[06:04:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Temple Demon
+[06:04:13] [Async Chat Thread - 3/INFO] [/]: <lefty890> ?
+[06:04:13] [Async Chat Thread - 3/INFO] [/]: <lefty890> ?
+[06:04:22] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> eh yo se los quite con invsee
+[06:04:22] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> eh yo se los quite con invsee
+[06:04:28] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 10 seconds
+[06:04:29] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 9 seconds
+[06:04:30] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 8 seconds
+[06:04:31] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 7 seconds
+[06:04:32] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 6 seconds
+[06:04:34] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 5 seconds
+[06:04:34] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 4 seconds
+[06:04:35] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 3 seconds
+[06:04:36] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 2 seconds
+[06:04:37] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 1 seconds
+[06:04:39] [Server thread/INFO] [/]: [AntiLag] > Removing...
+[06:04:39] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> cual mision
+[06:04:39] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> cual mision
+[06:04:47] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> pa q quieres saber
+[06:04:47] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> pa q quieres saber
+[06:04:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Demon
+[06:04:56] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> bueno
+[06:04:56] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> bueno
+[06:04:59] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> es la primera
+[06:04:59] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> es la primera
+[06:05:11] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya vi xd
+[06:05:11] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya vi xd
+[06:05:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[06:05:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[06:05:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[06:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[06:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[06:05:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[06:05:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Himejimafamily!
+[06:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Yahaba family!
+[06:05:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Uzui family!
+[06:05:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe has been born into the Shinazugawa family!
+[06:05:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Demon Slayer
+[06:05:37] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> a mi me toco una mierda de familia
+[06:05:37] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> a mi me toco una mierda de familia
+[06:05:40] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:05:45] [Async Chat Thread - 3/INFO] [/]: <lefty890> jajaja
+[06:05:45] [Async Chat Thread - 3/INFO] [/]: <lefty890> jajaja
+[06:05:49] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> callate npc
+[06:05:49] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> callate npc
+[06:06:01] [Async Chat Thread - 3/INFO] [/]: <lefty890> :(
+[06:06:01] [Async Chat Thread - 3/INFO] [/]: <lefty890> :(
+[06:06:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Demon
+[06:06:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was shot by Goldfish
+[06:06:21] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> SE ME OLVIDO EL AUTOCLICKER
+[06:06:21] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> SE ME OLVIDO EL AUTOCLICKER
+[06:06:22] [Async Chat Thread - 3/INFO] [/]: <lefty890> :(
+[06:06:22] [Async Chat Thread - 3/INFO] [/]: <lefty890> :(
+[06:06:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Horned Demon
+[06:06:32] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> pero la put
+[06:06:32] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> pero la put
+[06:06:38] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> te ayudo miamor?
+[06:06:38] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> te ayudo miamor?
+[06:06:40] [Async Chat Thread - 3/INFO] [/]: <lefty890> estan potentes
+[06:06:40] [Async Chat Thread - 3/INFO] [/]: <lefty890> estan potentes
+[06:06:50] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> la mate
+[06:06:50] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> la mate
+[06:06:50] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> cocoa
+[06:06:50] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> cocoa
+[06:06:52] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> tp
+[06:06:52] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> tp
+[06:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.Cocoa_Y_CafeはTanjiroに殺害された.player
+[06:06:57] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> gyomei nos carrea
+[06:06:57] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> gyomei nos carrea
+[06:07:08] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:07:08] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:07:08] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:07:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tpa RedLovesRed0
+[06:07:15] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> casi me hago tp
+[06:07:15] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> casi me hago tp
+[06:07:17] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> XD
+[06:07:17] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> XD
+[06:07:19] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /tpaccept
+[06:07:30] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> como hago la segunda mision?
+[06:07:30] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> como hago la segunda mision?
+[06:07:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Rokuro
+[06:07:33] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> que tengo que hacer
+[06:07:33] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> que tengo que hacer
+[06:07:35] [Async Chat Thread - 3/INFO] [/]: <lefty890> estan potentes
+[06:07:35] [Async Chat Thread - 3/INFO] [/]: <lefty890> estan potentes
+[06:07:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:07:40] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> mata demonios
+[06:07:40] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> mata demonios
+[06:07:45] [Server thread/INFO] [Essentials/]: Kamanue issued server command: /tp @s ~ ~ ~ 529.58057 0.0
+[06:07:47] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> tu mataste al mia
+[06:07:47] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> tu mataste al mia
+[06:07:48] [Async Chat Thread - 3/INFO] [/]: <lefty890> me hicieron vrg
+[06:07:48] [Async Chat Thread - 3/INFO] [/]: <lefty890> me hicieron vrg
+[06:07:48] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> mio*
+[06:07:48] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> mio*
+[06:07:57] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> LA MATASTE TU EN LA CUEVA
+[06:07:57] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> LA MATASTE TU EN LA CUEVA
+[06:08:02] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> CPRRE
+[06:08:02] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> CPRRE
+[06:08:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Demon
+[06:08:04] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> KOKUSHIBO
+[06:08:04] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> KOKUSHIBO
+[06:08:08] [Async Chat Thread - 3/INFO] [/]: <lefty890> me hicieron vrg
+[06:08:08] [Async Chat Thread - 3/INFO] [/]: <lefty890> me hicieron vrg
+[06:08:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:08:29] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> dios
+[06:08:29] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> dios
+[06:08:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 was slain by Demon
+[06:08:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:08:48] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> pega rico
+[06:08:48] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> pega rico
+[06:08:54] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no me cuenta en la mision
+[06:08:54] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no me cuenta en la mision
+[06:08:59] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> gyomei es runner
+[06:08:59] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> gyomei es runner
+[06:09:02] [Async Chat Thread - 3/INFO] [/]: <lefty890> tienen que ser los demons steve
+[06:09:02] [Async Chat Thread - 3/INFO] [/]: <lefty890> tienen que ser los demons steve
+[06:09:05] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> se esta alejando de kokushibo
+[06:09:05] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> se esta alejando de kokushibo
+[06:09:13] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> que demons steve
+[06:09:13] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> que demons steve
+[06:09:28] [Async Chat Thread - 3/INFO] [/]: <lefty890> solo esos demons cuentan
+[06:09:28] [Async Chat Thread - 3/INFO] [/]: <lefty890> solo esos demons cuentan
+[06:09:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.RedLovesRed0はKokushiboに殺害された
+[06:09:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Rokuro
+[06:09:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:09:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:09:42] [Server thread/INFO] [Essentials/]: entity.kimetsunoyaiba.entitybulletpistol issued server command: /kill @s[nbt={inGround:1b}]
+[06:09:42] [Server thread/INFO] [Essentials/]: entity.kimetsunoyaiba.entitybulletpistol issued server command: /kill @s[nbt={inGround:1b}]
+[06:09:44] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> XD
+[06:09:44] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> XD
+[06:09:44] [Server thread/INFO] [Essentials/]: entity.kimetsunoyaiba.entitybulletpistol issued server command: /kill @s[nbt={inGround:1b}]
+[06:09:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.RedLovesRed0はKyogaiに殺害された.player
+[06:09:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Demon
+[06:09:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:10:00] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:10:04] [Server thread/INFO] [Essentials/]: Kamanue issued server command: /tp @s ~ ~ ~ 300.82584 0.0
+[06:10:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.lefty890はDakiに殺害された.player
+[06:10:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:10:10] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> casi lo mato
+[06:10:10] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> casi lo mato
+[06:10:14] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> que mierda
+[06:10:14] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> que mierda
+[06:10:14] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ni lo toque
+[06:10:14] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ni lo toque
+[06:10:17] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no se puede avanzar
+[06:10:17] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no se puede avanzar
+[06:10:20] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> en la mision
+[06:10:20] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> en la mision
+[06:10:22] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> muzan
+[06:10:22] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> muzan
+[06:10:23] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> waos
+[06:10:23] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> waos
+[06:10:26] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> espera checo
+[06:10:26] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> espera checo
+[06:10:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /ftbquests editing_mode true Cocoa_Y_Cafe
+[06:10:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Cocoa_Y_Cafe: Editing Mode for Cocoa_Y_Cafe Enabled]
+[06:10:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 was slain by Demon
+[06:10:44] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:10:46] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> es que
+[06:10:46] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> es que
+[06:10:50] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> yo te los robe xD
+[06:10:50] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> yo te los robe xD
+[06:11:03] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> ya no vengas a mi casa
+[06:11:03] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> ya no vengas a mi casa
+[06:11:14] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> DEJA DE ROBARMELOS
+[06:11:14] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> DEJA DE ROBARMELOS
+[06:11:14] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> DIOS
+[06:11:14] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> DIOS
+[06:11:29] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ten para que me perdones
+[06:11:29] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ten para que me perdones
+[06:11:33] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no
+[06:11:33] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> no
+[06:11:41] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tp Cocoa_Y_Cafe RedLovesRed0
+[06:11:47] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ten
+[06:11:47] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ten
+[06:11:57] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> alejate
+[06:11:57] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> alejate
+[06:12:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /invsee RedLovesRed0
+[06:12:06] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 was kicked for floating too long!
+[06:12:06] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 lost connection: Flying is not enabled on this server
+[06:12:06] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 26c85666-4e7b-3370-93e9-77109a0ec8d0 was unloaded
+[06:12:09] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /invsee
+[06:12:10] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player lefty890 is 26c85666-4e7b-3370-93e9-77109a0ec8d0
+[06:12:10] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 49 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, dungeoncrawl, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, toastcontrol, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, rpg-hud, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, corpse, xpbook
+[06:12:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /invsee RedLovesRed0
+[06:12:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: lefty890[/100.106.128.63:54551] logged in with entity id 12,912 at (3,274.931, 66.157, 3,058.538)
+[06:12:12] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 26c85666-4e7b-3370-93e9-77109a0ec8d0 was loaded
+[06:12:36] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> deja de seguirme
+[06:12:36] [Async Chat Thread - 3/INFO] [/]: <RedLovesRed0> deja de seguirme
+[06:12:43] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya no lo hacia
+[06:12:43] [Async Chat Thread - 3/INFO] [/]: <Cocoa_Y_Cafe> ya no lo hacia
+[06:12:48] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 10 seconds
+[06:12:49] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 9 seconds
+[06:12:50] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 8 seconds
+[06:12:51] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 7 seconds
+[06:12:52] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 6 seconds
+[06:12:53] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 5 seconds
+[06:12:54] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 4 seconds
+[06:12:55] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 3 seconds
+[06:12:56] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 2 seconds
+[06:12:57] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 1 seconds
+[06:12:58] [Server thread/INFO] [/]: [AntiLag] > Removing...
+[06:13:19] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 moved wrongly!
+[06:13:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /skin clear
+[06:13:55] [Async Chat Thread - 4/INFO] [/]: <Cocoa_Y_Cafe> me das semillas porfa
+[06:13:55] [Async Chat Thread - 4/INFO] [/]: <Cocoa_Y_Cafe> me das semillas porfa
+[06:14:03] [Async Chat Thread - 4/INFO] [/]: <lefty890> no tengo
+[06:14:03] [Async Chat Thread - 4/INFO] [/]: <lefty890> no tengo
+[06:14:06] [Async Chat Thread - 4/INFO] [/]: <Cocoa_Y_Cafe> ok
+[06:14:06] [Async Chat Thread - 4/INFO] [/]: <Cocoa_Y_Cafe> ok
+[06:14:13] [Async Chat Thread - 4/INFO] [/]: <RedLovesRed0> cama gratis
+[06:14:13] [Async Chat Thread - 4/INFO] [/]: <RedLovesRed0> cama gratis
+[06:14:50] [Async Chat Thread - 4/INFO] [/]: <Cocoa_Y_Cafe> ya no gracias
+[06:14:50] [Async Chat Thread - 4/INFO] [/]: <Cocoa_Y_Cafe> ya no gracias
+[06:14:53] [Async Chat Thread - 4/INFO] [/]: <Cocoa_Y_Cafe> bueno
+[06:14:53] [Async Chat Thread - 4/INFO] [/]: <Cocoa_Y_Cafe> bueno
+[06:14:55] [Async Chat Thread - 4/INFO] [/]: <lefty890> :(
+[06:14:55] [Async Chat Thread - 4/INFO] [/]: <lefty890> :(
+[06:15:59] [Async Chat Thread - 5/INFO] [/]: <Cocoa_Y_Cafe> oye lefty
+[06:15:59] [Async Chat Thread - 5/INFO] [/]: <Cocoa_Y_Cafe> oye lefty
+[06:16:02] [Async Chat Thread - 5/INFO] [/]: <lefty890> q
+[06:16:02] [Async Chat Thread - 5/INFO] [/]: <lefty890> q
+[06:16:06] [Async Chat Thread - 5/INFO] [/]: <Cocoa_Y_Cafe> tienes hierro?
+[06:16:06] [Async Chat Thread - 5/INFO] [/]: <Cocoa_Y_Cafe> tienes hierro?
+[06:16:10] [Async Chat Thread - 5/INFO] [/]: <lefty890> 8
+[06:16:10] [Async Chat Thread - 5/INFO] [/]: <lefty890> 8
+[06:16:14] [Async Chat Thread - 5/INFO] [/]: <Cocoa_Y_Cafe> me das 3?
+[06:16:14] [Async Chat Thread - 5/INFO] [/]: <Cocoa_Y_Cafe> me das 3?
+[06:16:17] [Async Chat Thread - 5/INFO] [/]: <lefty890> oka
+[06:16:17] [Async Chat Thread - 5/INFO] [/]: <lefty890> oka
+[06:16:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 lost connection: Disconnected
+[06:16:20] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 21889b10-7bd3-3b18-b97a-0a82fb364ccc was unloaded
+[06:16:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /tpa Cocoa_Y_Cafe
+[06:16:22] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tp lefty890 Cocoa_Y_Cafe
+[06:19:23] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player RedLovesRed0 is 21889b10-7bd3-3b18-b97a-0a82fb364ccc
+[06:19:23] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 47 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, embeddium, rubidium, xpbook
+[06:19:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: RedLovesRed0[/100.76.174.29:57720] logged in with entity id 16,376 at (3,293.894, 74, 3,579.7)
+[06:19:25] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 21889b10-7bd3-3b18-b97a-0a82fb364ccc was loaded
+[06:19:46] [Async Chat Thread - 6/INFO] [/]: <RedLovesRed0> mi wifi carry
+[06:19:46] [Async Chat Thread - 6/INFO] [/]: <RedLovesRed0> mi wifi carry
+[06:20:21] [Async Chat Thread - 6/INFO] [/]: <RedLovesRed0> cocoa vas a ir sola, verdad?
+[06:20:21] [Async Chat Thread - 6/INFO] [/]: <RedLovesRed0> cocoa vas a ir sola, verdad?
+[06:20:30] [Async Chat Thread - 6/INFO] [/]: <Cocoa_Y_Cafe> eeh no se
+[06:20:30] [Async Chat Thread - 6/INFO] [/]: <Cocoa_Y_Cafe> eeh no se
+[06:20:46] [Async Chat Thread - 6/INFO] [/]: <Cocoa_Y_Cafe> sigo viendo el tren
+[06:20:46] [Async Chat Thread - 6/INFO] [/]: <Cocoa_Y_Cafe> sigo viendo el tren
+[06:21:08] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 10 seconds
+[06:21:09] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 9 seconds
+[06:21:10] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 8 seconds
+[06:21:11] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 7 seconds
+[06:21:12] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 6 seconds
+[06:21:13] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 5 seconds
+[06:21:14] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 moved wrongly!
+[06:21:14] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 4 seconds
+[06:21:15] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 3 seconds
+[06:21:16] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 2 seconds
+[06:21:17] [Server thread/INFO] [/]: [AntiLag] > All dropped items will be removed in 1 seconds
+[06:21:18] [Server thread/INFO] [/]: [AntiLag] > Removing...
+[06:21:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tp Cocoa_Y_Cafe 3108 3743
+[06:21:37] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /tp Cocoa_Y_Cafe 3108 70 3743
+[06:21:49] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> llegue al mt sagiri
+[06:21:49] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> llegue al mt sagiri
+[06:21:50] [Async Chat Thread - 7/INFO] [/]: <RedLovesRed0> entonces tendre que buscar otro equipo
+[06:21:50] [Async Chat Thread - 7/INFO] [/]: <RedLovesRed0> entonces tendre que buscar otro equipo
+[06:21:56] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> pero
+[06:21:56] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> pero
+[06:21:59] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> bueno
+[06:21:59] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> bueno
+[06:22:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Sabito
+[06:22:18] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:22:19] [Async Chat Thread - 7/INFO] [/]: <lefty890> xD
+[06:22:19] [Async Chat Thread - 7/INFO] [/]: <lefty890> xD
+[06:22:23] [Async Chat Thread - 7/INFO] [/]: <RedLovesRed0> el pajero de iguro
+[06:22:23] [Async Chat Thread - 7/INFO] [/]: <RedLovesRed0> el pajero de iguro
+[06:22:37] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> que xd?
+[06:22:37] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> que xd?
+[06:22:43] [Async Chat Thread - 7/INFO] [/]: <RedLovesRed0> melo encontre
+[06:22:43] [Async Chat Thread - 7/INFO] [/]: <RedLovesRed0> melo encontre
+[06:22:45] [Async Chat Thread - 7/INFO] [/]: <RedLovesRed0> me lo*
+[06:22:45] [Async Chat Thread - 7/INFO] [/]: <RedLovesRed0> me lo*
+[06:22:48] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> ah ya
+[06:22:48] [Async Chat Thread - 7/INFO] [/]: <Cocoa_Y_Cafe> ah ya
+[06:22:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 was slain by Demon
+[06:22:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:22:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Demon
+[06:22:59] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:23:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Demon
+[06:23:11] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Enmu Tentacle issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Enmu Tentacle issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Enmu Tentacle issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:16] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:23:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Demon
+[06:23:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:23:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Yahaba
+[06:23:47] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:23:50] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> quieres venir red?
+[06:23:50] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> quieres venir red?
+[06:23:57] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> np
+[06:23:57] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> np
+[06:23:59] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> no
+[06:23:59] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> no
+[06:24:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.RedLovesRed0はHandに殺害された.player
+[06:24:04] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:24:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Demon
+[06:24:05] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> no eramos team
+[06:24:05] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> no eramos team
+[06:24:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:24:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.RedLovesRed0はHandに殺害された
+[06:24:14] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> no dijiste eso
+[06:24:14] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> no dijiste eso
+[06:24:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:24:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Demon
+[06:24:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:24:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 was slain by Susamaru
+[06:24:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:24:51] [Server thread/INFO] [Essentials/]: Muichiro issued server command: /tp @s ~ ~ ~ 388.61542 -5.775886
+[06:24:52] [Server thread/INFO] [Essentials/]: Muichiro issued server command: /tp @s ~ ~ ~ 193.67114 0.0
+[06:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Demon
+[06:24:52] [Server thread/INFO] [Essentials/]: Muichiro issued server command: /tp @s ~ ~ ~ 193.67114 0.0
+[06:24:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:25:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Rokuro
+[06:25:04] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> entonces no read?
+[06:25:04] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> entonces no read?
+[06:25:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:25:06] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> digo
+[06:25:06] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> digo
+[06:25:08] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> no
+[06:25:08] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> no
+[06:25:09] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> red XD
+[06:25:09] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> red XD
+[06:25:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: death.attack.RedLovesRed0はRokuroに殺害された
+[06:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Rokuro
+[06:25:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was shot by Hairo
+[06:25:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:25:25] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:25:26] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:25:28] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> vale
+[06:25:28] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> vale
+[06:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was doomed to fall
+[06:25:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was slain by Rip Demon
+[06:25:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:26:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:26:16] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> mision de mierda
+[06:26:16] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> mision de mierda
+[06:26:17] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> no cuenta
+[06:26:17] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> no cuenta
+[06:26:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 was slain by Demon
+[06:26:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:26:39] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:26:39] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:26:39] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:26:39] [Server thread/INFO] [Essentials/]: Hand issued server command: /kill @s
+[06:26:44] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> MUZAN
+[06:26:44] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> MUZAN
+[06:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Progress has been changed!
+[06:26:52] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> yo tambien lo encontre xd
+[06:26:52] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> yo tambien lo encontre xd
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> AKAZA
+[06:26:53] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> AKAZA
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:53] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:54] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:55] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:56] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:57] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:58] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:26:59] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:00] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:01] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:02] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:03] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:04] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:05] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:06] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:07] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:07] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:07] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:07] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:07] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:07] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:07] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 was kicked for floating too long!
+[06:27:07] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 lost connection: Flying is not enabled on this server
+[06:27:07] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 26c85666-4e7b-3370-93e9-77109a0ec8d0 was unloaded
+[06:27:07] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:10] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player lefty890 is 26c85666-4e7b-3370-93e9-77109a0ec8d0
+[06:27:11] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 49 mods : minecraft, smoothchunk, fh, ftbessentials, lollipop, creativecore, combat_commons, knyr, jei, healthoverlay, connectivity, curios, patchouli, xaerominimap, croptopia, collective, clumps, enhancedvisuals, placebo, citadel, parcool, artifacts, yungsapi, obfuscate, dungeoncrawl, bookshelf, customnpcs, sophisticatedbackpacks, architectury, ftblibrary, itemfilters, ferritecore, solcarrot, toastcontrol, cloth-config, kimetsuanimationplayer, kimetsunoyaiba, ftbteams, ftbquests, rpg-hud, forge, bountiful, appleskin, travelerstitles, dummmmmmy, expandability, cosmeticarmorreworked, corpse, xpbook
+[06:27:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: lefty890[/100.106.128.63:54679] logged in with entity id 28,086 at (3,192.819, 68.979, 3,307.167)
+[06:27:13] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 26c85666-4e7b-3370-93e9-77109a0ec8d0 was loaded
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:14] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:15] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:16] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:17] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:18] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:19] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:20] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:21] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:22] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:23] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:24] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:25] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:26] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:26] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:26] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:26] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:27] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:27] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:27] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:27] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:27] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:27] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:28] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:28] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:28] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:28] [Server thread/INFO] [Essentials/]: Tree issued server command: /kill @s
+[06:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: RedLovesRed0 was slain by Demon
+[06:27:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: RedLovesRed0 issued server command: /back
+[06:27:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: lefty890 was slain by Demon
+[06:27:48] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> imposible avanzar
+[06:27:48] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> imposible avanzar
+[06:27:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 issued server command: /back
+[06:27:55] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: lefty890 moved too quickly! 17.213,0.976,-16.549
+[06:27:56] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> ni a un demonio se puede matar
+[06:27:56] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> ni a un demonio se puede matar
+[06:27:58] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> que
+[06:27:58] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> que
+[06:28:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cocoa_Y_Cafe was doomed to fall
+[06:28:06] [Async Chat Thread - 8/INFO] [/]: <lefty890> es pura paciencia manito
+[06:28:06] [Async Chat Thread - 8/INFO] [/]: <lefty890> es pura paciencia manito
+[06:28:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cocoa_Y_Cafe issued server command: /back
+[06:28:14] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> bro
+[06:28:14] [Async Chat Thread - 8/INFO] [/]: <RedLovesRed0> bro
+[06:28:18] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> ?
+[06:28:18] [Async Chat Thread - 8/INFO] [/]: <Cocoa_Y_Cafe> ?

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.123.233.128
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722728667809
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722734632839
+  login: 1722731879171
+money: '0'
+last-account-name: Sorvulent
+lastlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2982.300000011921
+  y: 83.0
+  z: 3050.300000011921
+  yaw: -105.1768798828125
+  pitch: 6.449910640716553
+logoutlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2931.037852308226
+  y: 84.19033982201051
+  z: 2918.2681115759633
+  yaw: 101.55042266845703
+  pitch: 57.90007781982422

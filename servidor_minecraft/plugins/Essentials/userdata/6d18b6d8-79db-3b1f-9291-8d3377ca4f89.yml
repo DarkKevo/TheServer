@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.120.44.82
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722638508686
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722718044641
+  login: 1722717768714
+money: '0'
+last-account-name: InumakiDeidad
+lastlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2991.5863013884623
+  y: 63.0
+  z: 3121.904743255846
+  yaw: 2.400360107421875
+  pitch: 14.999921798706055
+logoutlocation:
+  world: 07494cef-2088-4e39-8cbf-297f2ea03ded
+  world-name: world
+  x: 2992.7026133257664
+  y: 68.25220334025373
+  z: 3105.905477597979
+  yaw: -235.35018920898438
+  pitch: 37.949832916259766
